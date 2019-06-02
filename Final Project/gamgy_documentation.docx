@@ -1,0 +1,39 @@
+LOGIC AND INTRODUCTION
+Our project is basically a “customer billing system” which is consisting of a menu which is displayed to the customer consisting of all items with their respective costs. The customer has to select what he/she wants to eat and the number of units of each item that he/she wants to buy. And then the total amount which the customer has to pay is shown to the customer and then an invoice is generated consisting of the amount to be paid including all the taxes.
+
+FEATURES
+-	It has a GUI based system
+-	It is user-friendly
+-	Easy to understand 
+
+TOOLS USED
+-	Python
+-	Tkinter
+-	Modules
+
+TEST INSTRUCTION
+Open the “Final Project” named folder in the GitHub repository given below and then install the project and run it!
+CONTRIBUTERS
+Project is submitted on: https://github.com/garvitsaxena06/GAMGY-customer-billings
+PART-1 – By Garvit Saxena
+-	Assigned a Fantabulous basic structure to billing system.
+-	Created various frames and assigned and adjusted geometry of those frames.
+-	Created all the variables required for the functions and initialized i.e. set those variables to zero.
+PART-2 – By Yashi Rathore
+-	Created all the Functions required in the billing system for managing and tracking billing in an easy way.
+-	Created various variables for the quantity entered by user.
+-	Created Receipt (Text) to be shown in receipt frame.
+PART-3 – By Manisha Sahu
+-	Created an Authentic display and provided buttons for various functions.
+-	Created check buttons and linked them to appropriate function through various commands.
+-	Created a menu to be displayed to the user consisting of all items with their respective costs.
+
+SUPPORT
+1.	Garvit Saxena-8602438440	GITHUB ID – http://github.com/garvitsaxena06
+2.	Yashi Rathore-6265378011	GITHUB ID – http://github.com/Yashirathore11
+3.	Manisha Sahu-8839799160	GITHUB ID – http://github.com/Prettyquail
+
+REFERENCES
+1.	Udemy
+2.	YouTube
+3.	Tutorialspoint
