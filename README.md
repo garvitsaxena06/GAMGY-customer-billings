@@ -1,2 +1,3 @@
-# GAMGY-customer-billings
-This is a simple customer billing system.
+GAMGY BILLING SYSTEM
+It's a cafe coffeeday billing system with various amazing features and with an attractive user interface .
+
